@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/Canva-5cceff?style=for-the-badge&logo=canva&logoColor=black" target="_blank"></a>
 </div> 
  ##
-## Sobre Mim 
+## 👩🏻 Sobre Mim 
 
-<div> skakkak </div>
+<div> Sou a Amanda, tenho 17 anos e estou me desenvolvendo na área de Desenvolvimento de Sistemas por meio de cursos livres e profissionalizantes, com o intuito de me especializar no Ensino Superior </div>
 
 
  ## :mortar_board: Github Stats
