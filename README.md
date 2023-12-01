@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/JavaScript-d0d02f?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <img src="https://img.shields.io/badge/Canva-5cceff?style=for-the-badge&logo=canva&logoColor=black" target="_blank"></a>
 </div> 
- ##
+ 
 ## 👩🏻 Sobre Mim 
 
 <div> Sou a Amanda, tenho 17 anos e estou me desenvolvendo na área de Desenvolvimento de Sistemas por meio de cursos livres e profissionalizantes, com o intuito de me especializar no Ensino Superior </div>
