@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Canva-5cceff?style=for-the-badge&logo=canva&logoColor=black" target="_blank"></a>
 </div> 
  
-# <link> # 👩🏻 Sobre Mim 
+## 👩🏻 Sobre Mim 
 
 <div> Tenho 17 anos e estou me aprimorando na área de Desenvolvimento de Sistemas por meio de cursos livres e profissionalizantes, com o intuito de me especializar no Ensino Superior </div>
 
