@@ -1,4 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F76565&random=false&width=435&lines=Oii! Sou a Amanda Brito" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F76565&random=false&width=435&lines=Oii!+Sou+a+Amanda+Brito" alt="Typing SVG" /></a>
+
 ## 💻 Ferramentas e Tecnologias 
 <div>
   <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
