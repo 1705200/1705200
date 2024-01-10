@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=35&font=Dancing+Script&pause=1000&color=6A01A4FF&random=false&width=435&lines=Oii!+Sou+a+Amanda+Brito" alt="Typing SVG" /></a>
 
-## 👩🏻 Sobre Mim 
+## 👩🏻 Sobre Mim
 
 <div> Tenho 17 anos e estou me aprimorando na área de Desenvolvimento de Sistemas por meio de cursos livres e profissionalizantes, com o intuito de me especializar no Ensino Superior </div>
 
