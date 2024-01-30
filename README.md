@@ -2,7 +2,7 @@
 
 ## 👩🏻 Sobre Mim
 
-<div> Tenho 17 anos e estou me aprimorando na área de Desenvolvimento de Sistemas por meio de cursos livres e profissionalizantes, com o intuito de me especializar no Ensino Superior </div>
+<div> Tenho 17 anos e estou me aprimorando na área Frontend por meio de cursos livres e profissionalizantes, com o intuito de me especializar no Ensino Superior </div>
 
 
 ## 💻 Ferramentas e Tecnologias 
