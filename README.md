@@ -2,7 +2,7 @@
 
 ## 👩🏻 Sobre Mim
 
-<div> Tenho 17 anos e estou me aprimorando na área Frontend por meio de cursos livres e profissionalizantes, com o intuito de me especializar no Ensino Superior </div>
+<div> Tenho 18 anos, estou cusando Análise e Dsenvolvimento de Sistemas e trabalhando como aprendiz na área de Governança em TI </div>
 
 
 ## 💻 Ferramentas e Tecnologias 
@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/CSS3-2079f5?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/JavaScript-d0d02f?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <img src="https://img.shields.io/badge/Canva-5cceff?style=for-the-badge&logo=canva&logoColor=black" target="_blank"></a>
+  <img src="https://img.shields.io/badge/MySQL-5cceff?style=for-the-badge&logo=canva&logoColor=black" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Python-5cceff?style=for-the-badge&logo=canva&logoColor=black" target="_blank"></a>
+
+
 </div> 
  
 
